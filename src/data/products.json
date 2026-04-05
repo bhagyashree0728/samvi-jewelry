@@ -135,7 +135,7 @@
   {
     "id": 7,
     "name": "Bridal Choker Set",
-    "price": 24999,
+    "price": 1,
     "originalPrice": 29999,
     "category": "bridal-collection",
     "subCategory": "choker",
@@ -157,7 +157,7 @@
   {
     "id": 8,
     "name": "Dainty Infinity Chain",
-    "price": 2799,
+    "price": 1,
     "originalPrice": null,
     "category": "chains",
     "subCategory": "delicate",
