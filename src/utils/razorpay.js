@@ -22,7 +22,7 @@ export function loadRazorpay() {
  * Get Razorpay key from admin settings (or env)
  */
 export function getRazorpayKey() {
-  return localStorage.getItem('samvi-razorpay-key') || 'rzp_test_XXXXXXXXXX'
+  return localStorage.getItem('samvi-razorpay-key') || 'rzp_test_SZikZ4EawaMrFl'
 }
 
 export function saveRazorpayKey(key) {
